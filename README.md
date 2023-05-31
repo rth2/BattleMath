@@ -9,7 +9,7 @@ game features are added.
   Two things to note are that the game this was made for had already been live
 for about half a year and the original developer for the template didn't turn anything in.
   So this template was a critical ask / expectation from players and needed to be made fast as
-players will already view this as late.
+players expected this long before I was contacted.
 
 **Result**
   Was able to create, meet with client Lead for review, add any additional functionality requests,
